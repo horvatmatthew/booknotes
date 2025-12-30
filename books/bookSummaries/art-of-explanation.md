@@ -1,3 +1,10 @@
+---
+layout: default
+nav_order: 2
+parent: books
+permalink: /summaries/art-of-explanation
+---
+
 # *The Art of Explanation* – Expanded Summary
 
 **By Ros Atkins**
